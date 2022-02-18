@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&family=Montserrat:wght@100;400;700&display=swap');
+
+@font-face {
+  font-family: 'Gang of Three';
+  src: url('/assets/fonts/GangofThree.woff2') format('woff2'),
+    url('/assets/fonts/GangofThree.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -36,4 +48,27 @@ html[data-theme='dark'] {
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+.navbar__title {
+  color: #fff;
+  font-family: 'Gang of Three', serif;
+  /* line-height: 1.15; */
+  font-size: 1.5rem;
+  text-align: center;
+  /* -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff; */
+  text-shadow: 5px 5px 0 #ff0000, 0 0 20px rgba(0, 0, 0, .5);
+}
+
+.navbar__logo {
+  display: none;
+}
+
+.navbar__item {
+  font-family: 'Asap';
+  font-weight: 700;
+  text-transform: uppercase;
 }
