@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'nhodges', // Usually your GitHub org/user name.
   projectName: 'samurise.github.io', // Usually your repo name.
-
   presets: [
     [
       'classic',
@@ -41,6 +40,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'Lost SamuRise',
         logo: {

@@ -51,7 +51,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 
-
 .navbar__title {
   color: #fff;
   font-family: 'Gang of Three', serif;
@@ -60,7 +59,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   text-align: center;
   /* -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #fff; */
-  text-shadow: 5px 5px 0 #ff0000, 0 0 20px rgba(0, 0, 0, .5);
+  text-shadow: 5px 5px 0 #ff0000;
 }
 
 .navbar__logo {
