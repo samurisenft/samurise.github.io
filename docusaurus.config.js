@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'nhodges', // Usually your GitHub org/user name.
-  projectName: 'samurise', // Usually your repo name.
+  projectName: 'samurise.github.io', // Usually your repo name.
 
   presets: [
     [
