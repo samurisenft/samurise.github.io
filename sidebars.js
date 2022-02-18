@@ -26,6 +26,12 @@ const sidebars = {
     },
   ],
    */
+  washipaper: [
+    'washipaper/preface',
+    'washipaper/metaverse-layer',
+    'washipaper/economic-layer',
+    'washipaper/settlement-layer'
+  ],
 };
 
 module.exports = sidebars;
