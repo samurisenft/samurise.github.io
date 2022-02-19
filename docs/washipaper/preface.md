@@ -9,4 +9,4 @@ We want to build a generic framework for onboarding L1 communities to L2 on-chai
 
 ## The Layers
 
-![The Layers](/assets/images/diagram-layers.png)
+![The Layers](/assets/images/diagram-layers.jpg)
