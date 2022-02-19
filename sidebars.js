@@ -30,7 +30,8 @@ const sidebars = {
     'washipaper/preface',
     'washipaper/metaverse-layer',
     'washipaper/economic-layer',
-    'washipaper/settlement-layer'
+    'washipaper/settlement-layer',
+    'washipaper/contract-design'
   ],
 };
 
