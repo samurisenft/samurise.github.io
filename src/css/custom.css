@@ -81,3 +81,7 @@ img {
   border-radius: 5px;
   max-width: 100%;
 }
+
+.navbar__link:last-child {
+  display: none;
+}
