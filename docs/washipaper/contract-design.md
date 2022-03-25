@@ -18,4 +18,4 @@ The SamuRise staking contract implements a novel approach. Instead of placing yo
 
 ## Contract Diagram
 
-![The Layers](/assets/images/diagram-contract-design.png)
+![The Layers](/assets/images/diagram-contract-design.jpg)

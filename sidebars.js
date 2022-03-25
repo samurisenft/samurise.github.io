@@ -27,11 +27,14 @@ const sidebars = {
   ],
    */
   washipaper: [
-    'washipaper/preface',
-    'washipaper/metaverse-layer',
-    'washipaper/economic-layer',
-    'washipaper/settlement-layer',
-    'washipaper/contract-design'
+    'washipaper/prologue',
+    'washipaper/introduction',
+    'washipaper/guiding-principles',
+    'washipaper/ecosystem-integrations',
+    'washipaper/game-design',
+    'washipaper/tokenomics',
+    'washipaper/game-roles',
+    'washipaper/project-roadmap'
   ],
 };
 
