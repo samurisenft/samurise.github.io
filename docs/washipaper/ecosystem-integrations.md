@@ -5,17 +5,17 @@ title: Ecosystem Integrations
 
 # Ecosystem Integrations
 
-## Bridgeworld Guild
-
 Our strategy settled on an L1 mint because it helps to promote our chain-agnostic vision. The built-in L2 interop composability is intentional because it offsets the critical gameplay to a blockchain that is architected for this type of interaction, while preserving the security afforded by L1. The additional benefits go much further however, because we can facilitate and ramp the transition of NFT Investors and their capital into Arbitrum and the Treasure ecosystem. The diagram below outlines many of the components of this ecosystem design.
 
-INSERT_IMAGE
+![Bridgeworld Guild](/assets/images/ecosystem-integrations.jpg)
+
+## Bridgeworld Guild
 
 A significant portion of Mint proceeds from L1 will be utilized immediately to invest in Treasure’s Bridgeworld game. We will support the creation of a sub-DAO with the ‘Master Tactician’ role, and provide them an on-chain governance model that kickstarts the transition over to a fully autonomous and decentralized decision making group. This committee of 47 ronin are responsible for providing alpha strategies and making game decisions on behalf of the community. Additionally, all marketplace royalties, some internal game purchases, and individual $MAGIC staking will be compounded into this investment pool.
 
 The Lost SamuRise integration with Bridgeworld is deliberate, and seeks to reinforce existing  positive feedback loops within the broader Treasure tokenomics design. We are spinning the flywheel by adding L1 liquidity and incentivizing locked Treasure resources to enhance gameplay. Over time we expect the profile of this Treasury to become more heavily weighted towards increasing engagement and protocol growth, as the following graphic depicts.
 
-INSERT_IMAGE
+![Allocation](/assets/images/allocation.png)
 
 ## SamuRise $MAGIC Staking
 
@@ -23,11 +23,11 @@ SamuRise holders can increase their boosted yields by staking additional $MAGIC 
 
 The calculation method is captured with the equation:
 
-INSERT_IMAGE
+![Calculation](/assets/images/formula1.png)
 
 Calculations per SamuRise holder’s wallet will be derived from your veSamuRise value - not linearly proportional to the number of SamuRise you have staked.
 
-INSERT_IMAGE
+![Calculation](/assets/images/formula2.png)
 
 To further assist the reader the following diagram demonstrates the various yield types, how they are calculated, where they can be claimed, and what criteria must be met. The key takeaways are:
 
@@ -35,7 +35,7 @@ To further assist the reader the following diagram demonstrates the various yiel
 * You can claim $MAGIC & $BUSHO based on your total veSamuRise score
 * If you play the game by performing Actions on your Land, you will also qualify for additional in-game tokens
 
-INSERT_IMAGE
+![Yield Manager](/assets/images/yield-manager.png)
 
 Your base *veSamuRise* value can be further boosted by staking Treasure resources, creating a dual incentive structure to invest in both types of assets to achieve the highest and most aggressive yield rates available. Since Onna Mushas are a rare and privileged asset in our game world, they will be assigned a better base modifier to all boosted scores.
 

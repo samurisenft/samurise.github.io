@@ -13,7 +13,7 @@ The goal of Lost Samurise is to coordinate among your Faction to outwit your ene
 
 ## Logical Architecture
 
-INSERT_IMAGE
+![Logical Architecture](/assets/images/logical-architecture.png)
 
 The World of Tengoku contains 3 Factions, and each contains 3 Provinces that will exist on a 2D map with borders that place each province adjacent to 2 or more enemy factions. Each Province will have Daimyo Lands (1 per Wallet) assigned to them, and distributed evenly from a snapshot so that exactly 3333 SamuRise are sent to each Faction.
 
@@ -31,7 +31,7 @@ One piece of Land (erc-721) is given to each SamuRise at mint. The logic for dis
 
 The Lost SamuRise is played over a year in game time, and contains 3 identical seasonal loops (Spring, Summer, Fall), while the final Winter season allocates time for all the end of year revolt calculations and Emperor award actions. Within each non-Winter season there are 4 phases that factional teams and individuals will participate in.
 
-INSERT_IMAGE
+![Yearly Game Loop](/assets/images/game-loop-year.png)
 
 ### Active Season Loop
 

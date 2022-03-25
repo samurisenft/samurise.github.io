@@ -13,7 +13,10 @@ Tokenomics models require 2 essential features from the start. 1) A good startup
 
 The Lost SamuRise genesis token is an ERC-721 that is staked to generate various types of tokens by performing functions in game. 
 
-1. Powering on the Purification Process in Tengoku requires a minimum % of SamuRise to be staked (similar to powering mechanics for Treasure’s Atlas mine). This will incentivize collective behaviours to engage in activity that benefits the community. INSERT_IMAGE
+1. Powering on the Purification Process in Tengoku requires a minimum % of SamuRise to be staked (similar to powering mechanics for Treasure’s Atlas mine). This will incentivize collective behaviours to engage in activity that benefits the community.  
+   | Num SamuRise staked      | <40% | >40% | >50% | >60% |
+   | ----------- | ----------- | ----------- | ----------- | ----------- |
+   | % of emissions      | 0% | 60% | 80% | 100% |
 1. Staking will emit Lost Samurise native token $BUSHO
 1. Contribution of additional Treasure resources ($Magic and/or #Treasures) will give each SamuRise boosted veSamuRise that will provide direct benefits to gameplay.
 
@@ -21,7 +24,7 @@ The Lost SamuRise genesis token is an ERC-721 that is staked to generate various
 
 The utility of $BUSHO is to provide efficient market functions for all in-game assets. This ERC-20 token will be emitted to wallets according to your veSamuRise score, to the vendor function, and to provide liquidity for a Busho/Magic pool. $BUSHO is a medium of exchange backed by our $MAGIC treasury and subject to monetary policy from the core team to maintain market stability.
 
-INSERT_IMAGE
+![$BUSHO](/assets/images/tokenomics-busho.png)
 
 **Values in the diagram represent a theoretical simulation from our model*
 
