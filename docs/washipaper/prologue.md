@@ -12,3 +12,5 @@ title: Prologue
 *Then appeared a dimensional rift in the town Hiyokudo , known to the locals as 'the Bogai' - an unusual disturbance in the core fabric of the Metaverse. At first subtle changes occurred to the land and its bounty, but Tengoku remained prosperous. As the rift widened, the transformation of the land quickened. Crops failed, treasure mines collapsed, and the land itself became desecrated and corrupt.*
 
 *The Samurai cast their differences aside and assembled a great army at Hiyokudo. A pall descended on the land and a great sadness lay etched on their faces as they prepared to leave their families and countrymen behind. Their enemy had no physical form, no sword to trade blows - only an emanating sickness that spread unchecked from that foul rift. Yet, they marched one by one through that gate and towards a fate not of their choosing...*
+
+*(Head over to our Discord #Lore channel to get the full tale)*
