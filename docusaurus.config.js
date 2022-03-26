@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'nhodges', // Usually your GitHub org/user name.
+  organizationName: 'samurisenft', // Usually your GitHub org/user name.
   projectName: 'samurise.github.io', // Usually your repo name.
   presets: [
     [
@@ -24,12 +24,12 @@ const config = {
           path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/nhodges/samurise.github.io/tree/master/',
+          editUrl: 'https://github.com/samurisenft/samurise.github.io/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/nhodges/samurise.github.io/tree/master/',
+          editUrl: 'https://github.com/samurisenft/samurise.github.io/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,7 +67,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/nhodges/samurise.github.io',
+            href: 'https://github.com/samurisenft/samurise.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -103,7 +103,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/nhodges/samurise.github.io',
+                href: 'https://github.com/samurisenft/samurise.github.io',
               },
             ],
           },
