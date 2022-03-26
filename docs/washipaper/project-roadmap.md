@@ -20,6 +20,10 @@ Mint Lost SamuRise with land assigned to a Province.
   Introduce user experience and contracts for quest completion and receiving a reward. Users receives a sword and land NFT, as well as NFTs for any roles they achieved during our pre-launch marketing process.
 * **Implement the “PFP Configurator” functionality**  
   Allows a Samurai holder to alter the appearance of their PFP by equipping different items to it
+* **Implement Non-Escrow Staking**
+  ERC-721 NES, or Non Escrow Staking, is a novel implementation of a staking model that does not require the owner of a token to lock it into an escrow contract.
+  During the staking period, staked tokens becomes non transferrable while remaining in their owner's wallet.
+  In this paradigm, the owner of a token has zero exposure to the risk of a staking contract being compromised. It is truly non-custodial in nature.
 
 ## Phase 2: Faction Building
 

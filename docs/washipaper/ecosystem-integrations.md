@@ -51,6 +51,8 @@ All formerly rugged and abandoned collections on L1 that are willing to hop onto
 
 The planned utility centers around the **Farm** action, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
 
+![Lifeboats](/assets/images/lifeboats.png)
+
 ## Future Partner Integration
 
 Where it makes sense to SamuRise gameplay, we will pursue direct integration with the resource economy of other Treasure ecosystem collections. Cross-partner integration backed by a native AMM adds a strong multiplier to the overall economic flywheel and substantially boosts Metcalf's Law. As part of our strategy we will be seeking ways to integrate Smolverse, Battlefly, and others into our metaverse. The idea of world-building to accommodate new Factions into our gameplay from other NFT franchises is far too exciting to ignore.
