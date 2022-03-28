@@ -34,7 +34,7 @@ $BUSHO will launch with an initial supply and features the following properties:
 * Daily emissions will be 10k $BUSHO and divided among SamuRise holders according to the Emissions formula above
 * Circulating supply will be spread between holder’s wallets, the in-game vendor, and a $BUSHO/$MAGIC liquidity pool in Treasure’s future AMM
 
-## Tokens: Gameplay $CHIKARA $GOHAN (server tokens/ERC-20)
+## Tokens: Gameplay $CHIKARA $GOHAN (ERC-1155)
 
 The worker placement game feature allows SamuRise to choose their yield type depending on their broader factional or solo strategy.
 
