@@ -41,7 +41,9 @@ Your base *veSamuRise* value can be further boosted by staking Treasure resource
 
 ## L1 NFT Lifeboats
 
-All formerly rugged and abandoned collections on L1 that are willing to hop onto our composable lifeboats to gain new utility in emerging metaverses (Arbitrum and Treasure) must fulfill the following criteria.
+![Lifeboats](/assets/images/lifeboats.png)
+
+All formerly rugged and abandoned collections on L1 that hop onto our composable lifeboats must fulfill the following criteria.
 
 1. Collection must be in control of an effective DAO
 1. Keys must be transitioned and in their possession
@@ -49,9 +51,11 @@ All formerly rugged and abandoned collections on L1 that are willing to hop onto
 1. A commitment to transition their entire treasury to the BridgeWorld game must be made (*staggered amount with different benefits)
 1. The community must approve a proposal from the DAO to proceed
 
-The planned utility centers around the **Farm** action, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
+These whitelisted collections will gain new benefits in the form of utility within the SamuRise metaverse, and possibly $MAGIC yield commensurate with their treasury contribution.
 
-![Lifeboats](/assets/images/lifeboats.png)
+![Lifeboats](/assets/images/lifeboat-calculator.png)
+
+The planned utility within SamuRise centers around the **Farm** Action, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
 
 ## Future Partner Integration
 
