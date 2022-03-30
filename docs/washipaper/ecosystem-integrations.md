@@ -51,11 +51,18 @@ All formerly rugged and abandoned collections on L1 that hop onto our composable
 1. A commitment to transition their entire treasury to the BridgeWorld game must be made (*staggered amount with different benefits)
 1. The community must approve a proposal from the DAO to proceed
 
-These whitelisted collections will gain new benefits in the form of utility within the SamuRise metaverse, and possibly $MAGIC yield commensurate with their treasury contribution.
+These whitelisted collections will gain new benefits in the form of utility within the SamuRise metaverse, and $MAGIC yield commensurate with their treasury contribution. All collections qualify strictly for the yield generated through the Treasury allocated by the Master Tacticians, and as part of Bridgeworld guild engagement.
 
 ![Lifeboats](/assets/images/lifeboat-calculator.png)
 
 The planned utility within SamuRise centers around the **Farm** Action, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
+
+The technical implementation for this Lifeboat primitive will have the following design details:
+
+1. All NFT tokens on L1 will be burned and reminted on L2 as an ERC-1155
+1. The new tokens will become available on the Treasure marketplace and denominated in $MAGIC
+1. We will work with the Lifeboat DAO to integrate their art preferences within a style that honours their legacy and fits in well within our Lost SamuRise metaverse
+1. The yield calculation will always be a product of number and not length of stake, and they will not qualify for a boosted allocation of yield - they can only stake or unstake with no term length options
 
 ## Future Partner Integration
 
