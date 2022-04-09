@@ -53,9 +53,11 @@ All formerly rugged and abandoned collections on L1 that hop onto our composable
 
 These whitelisted collections will gain new benefits in the form of utility within the SamuRise metaverse, and $MAGIC yield commensurate with their treasury contribution. All collections qualify strictly for the yield generated through the Treasury allocated by the Master Tacticians, and as part of Bridgeworld guild engagement.
 
+Lifeboats treasury 'contributed' is calculated as 90% of their overall stake in the treasury. 5% is transitioned to the SamuRise stake as a benefit of owning the Genesis collection, and 5% or 2 Eth (whichever is largest) is used by the core team to cover the costs associated with the new integration into the Master Yield Pool, Treasure marketplace, art modifications, tokenomics adjustments, etc.
+
 ![Lifeboats](/assets/images/lifeboat-calculator.png)
 
-The planned utility within SamuRise centers around the **Farm** Action, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
+The planned utility within SamuRise centers around the **Farm** and **Produce** Actions, and although not as efficient as SamuRise, these approved NFTs can be set to work as peasant farmers/Miners/Lumberjacks on your land. This, of course, allows your SamuRise to spend their valuable time elsewhere.
 
 The technical implementation for this Lifeboat primitive will have the following design details:
 
