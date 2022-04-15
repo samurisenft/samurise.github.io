@@ -7,6 +7,10 @@ title: Project Roadmap
 
 ![Roadmap](/assets/images/roadmap.png)
 
+This Roadmap reflects the current prioritization the team is pursuing in order to deliver high quality and engaging gameplay for our holders. It is meant for the purpose of transparency and may change to adjust to emergent conditions among holder feedback, tokenomics, macro conditions, development constraints, and partnerships.
+
+**This Roadmap is a living document and will change. Our higher commitment is to deliver features and functionality with each and every seasonal game loop.**
+
 ## Prelude - phase 1
 
 Mint Lost SamuRise collection
@@ -37,7 +41,7 @@ Claim Land, Sword, and other Role based NFTs
 * **Implement the “PFP Configurator” functionality**  
   * Allows a Samurai holder to alter the appearance of their PFP by equipping different items to it
   
-## Season 1: Spring
+## Year 1 Season 1: Spring
 
 Introduce SamuRise worker Actions
 
@@ -57,7 +61,7 @@ Introduce SamuRise worker Actions
   * Worker tokens are only mintable by approved “partner collections” into erc-1155 tokens that are tradeable on the Treasure marketplace
   * Worker tokens can replace a SamuRise with the Farm and Produce (later) actions at a 10 to 1 efficiency trade-off
 
-## Season 2: Summer
+## Year 1 Season 2: Summer
 
 Introduce remaining SamuRise worker Actions
 
@@ -69,7 +73,7 @@ Introduce remaining SamuRise worker Actions
 * Master Yield Pool Dashboard
   * Claim $Magic function is available at this time
 
-## Season 3: Fall
+## Year 1 Season 3: Fall
 
 Introduce L2 Staking Options & Introduce Faction Orders
 
@@ -87,7 +91,7 @@ Introduce L2 Staking Options & Introduce Faction Orders
 * Website Faction interface
   * Faction Order interface is created for council to issue encrypted multi-sig Orders for each Province 
 
-## Season 4: Winter
+## Year 1 Season 4: Winter
 
 Faction ORDERs are completed & Winter is coming
 
