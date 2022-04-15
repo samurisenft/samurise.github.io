@@ -7,7 +7,7 @@ title: Project Roadmap
 
 ![Roadmap](/assets/images/roadmap.png)
 
-## Phase 0: The Awakening
+## Prelude - phase 1
 
 Mint Lost SamuRise collection
 
@@ -23,7 +23,7 @@ Mint Lost SamuRise collection
   During the staking period, staked tokens becomes non transferrable while remaining in their owner's wallet.
   In this paradigm, the owner of a token has zero exposure to the risk of a staking contract being compromised. It is truly non-custodial in nature.
 
-## Phase 0: Land !!
+## Prelude - Phase 2
 
 Claim Land, Sword, and other Role based NFTs
 
@@ -37,58 +37,68 @@ Claim Land, Sword, and other Role based NFTs
 * **Implement the “PFP Configurator” functionality**  
   * Allows a Samurai holder to alter the appearance of their PFP by equipping different items to it
   
-## Phase 1: The Commitment
+## Season 1: Spring
 
-Introduce L2 Staking Options
+Introduce SamuRise worker Actions
 
-* L2 Staking options are released
-  * Website interface will allow each SamuRise owner to boost their veSamuRise by locking their tokens across different time periods (1 wk, 2 wk, 3 wk, 1 mon, 2 mon, 3 mon, 4 mon (1 game yr), 1 yr
+* Introduce in-game medium of exchange $BUSHO (erc-20)
+  * $Busho will accrue to staked SamuRise owners in a similar manner to $Magic and using boosted veSamuRise when available (only claimable via P2E actions in-game)
+* SamuRise can be set to work in one of 2 initial Action types
+  * Farm for $GOHAN (erc-1155)
+  * Train for $CHIKARA (erc-1155)
+* Planned Treasure Integration
+  * All SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
 * Land is now mintable for $Magic
   * Land can be minted into a chosen faction towards a cap of 1111 per province and 3333 per Faction
 * Master Yield Pool Dashboard
   * Website dashboard will show your currently staked SamuRise and accrued $Magic
-  * Claim $Magic function is available at this time
 * Implement worker tokens (erc-1155)
   * Worker tokens are utility tokens and gamefi primitives, allowing abstraction of a “board game” type mechanic
   * Worker tokens are only mintable by approved “partner collections” into erc-1155 tokens that are tradeable on the Treasure marketplace
-* Introduce in-game medium of exchange $BUSHO (erc-20)
-  * $Busho will accrue to staked SamuRise owners in a similar manner to $Magic and using boosted calculations
-* Implement governance features for Master Tacticians 
-  Introduce an electoral process both for the nomination and voting of 2 Master Tacticians who will hold keys for the sub-DAO Gnosis safe 
+  * Worker tokens can replace a SamuRise with the Farm and Produce (later) actions at a 10 to 1 efficiency trade-off
 
-## Phase 2: The Purification
+## Season 2: Summer
 
-Introduce SamuRise worker Actions
+Introduce remaining SamuRise worker Actions
 
-* SamuRise can be set to work in one of 4 Action types
-  * Farm for $GOHAN (erc-1155)
-  * Train for $CHIKARA (erc-1155)
+* SamuRise can now engage in the final 2 Action types
   * Produce for #Materials (erc-1155)
   * Quest for in-game items and NFTs
+* Planned Treasure Integration
+  * All additional SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
+* Master Yield Pool Dashboard
+  * Claim $Magic function is available at this time
+
+## Season 3: Fall
+
+Introduce L2 Staking Options & Introduce Faction Orders
+
+* L2 Staking options are released
+  * Website interface will allow each SamuRise owner to boost their veSamuRise by locking their tokens across different time periods (1 wk, 2 wk, 3 wk, 1 mon, 2 mon, 3 mon, 4 mon (1 game yr), 1 yr
 * Planned Treasure Integration
   * #Treasures sorted by Tier can contribute to Faction BUILD Order as a substitution for in-game #materials
   * Use Genesis Legions as Senseis to allow SamuRise to train beyond lvl 6
 * Faction Dashboard
   * Show Faction dashboard with statistical data on current accumulation rates of #materials and $GOHAN
+* Implement governance features for Master Tacticians 
+  * Introduce an electoral process both for the nomination and voting of 5 Faction Council members who will possess 3 of 5 multi-sig access to issue encrypted Orders into the website's Faction Interface
+* Introduce the Faction Order mechanics to allow the Purification to begin
+  * BUILD an iconic building (Castle, Temple, Theatre) to purify their land
+* Website Faction interface
+  * Faction Order interface is created for council to issue encrypted multi-sig Orders for each Province 
 
-## Phase 3: The Factions
+## Season 4: Winter
 
-Faction ORDERs are introduced
+Faction ORDERs are completed & Winter is coming
 
 * Introduce the Faction Order mechanics to complete the Seasonal Game Loop
   * ATTACK neighboring Province and interrupt their BUILD or steal resources
-  * BUILD an iconic building (Castle, Temple, Theatre) to purify their land
   * SABOTAGE a Province and steal their resources or undermine their BUILD Order
   * SUPPLY a neighboring Province and help them fend off attack
-* Website Faction interface
-  * Faction Order interface is created for council to issue encrypted multi-sig Orders for each Province 
+* Planned Treasure Integration
+  * Essence of Starlight can imbue your sword with the mark of 1 of 5 schools for a PFP upgrade and possible in-game utility (bonus to your Strength level)
+  * Auxiliary Legions can be hired as mercenaries to aid in the ATTACK Order component of the Faction wargame
 * Complete the Winter game season
   * Settle Revolts in Provinces that couldn't feed their workers
   * Increase competitive advantage by Introducing various Emperor given awards for out-competing enemy factions
   * Winning faction is granted Shogunate Title for 1 game year loop and gains a better emission rate for the next season
-* Planned Treasure Integration
-  * Essence of Starlight can imbue your sword with the mark of 1 of 5 schools for a PFP upgrade and possible in-game utility (bonus to your Strength level)
-  * Auxiliary Legions can be hired as mercenaries to aid in the ATTACK Order component of the Faction wargame
-* Implement governance features for Faction Council Members 
-  Introduce an electoral process both for the nomination and voting of 5 Faction Council members who will possess 3 of 5 multi-sig access to issue encrypted Orders into the website's Faction Interface 
-
