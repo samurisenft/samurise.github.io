@@ -43,13 +43,13 @@ Your base *veSamuRise* value can be further boosted by staking Treasure resource
 
 ![Lifeboats](/assets/images/lifeboats.png)
 
-All formerly rugged and abandoned collections on L1 that hop onto our composable lifeboats must fulfill the following criteria.
+Lifeboats will arrive from 2 possible scenarios: rugs and magic carpets. Rugs need no explanation, but a magic carpet is for those projects that have an engaged and supportive founding team who are seeking to offer value to their community. In both cases, collections on L1 that hop onto our composable lifeboats must fulfill the following criteria.
 
-1. Collection must be in control of an effective DAO
-1. Keys must be transitioned and in their possession
-1. The DAO must own their IP
-1. A commitment to transition their entire treasury to the BridgeWorld game must be made (*staggered amount with different benefits)
-1. The community must approve a proposal from the DAO to proceed
+1. Collection must be in control of an effective DAO or the original founders
+1. (if DAO) Keys must be transitioned and in their possession
+1. (if DAO) They must own their IP
+1. A commitment to transition an agreed portion of their treasury to the BridgeWorld game must be made
+1. The community must approve a proposal from the DAO, or founders, to proceed
 
 These whitelisted collections will gain new benefits in the form of utility within the SamuRise metaverse, and $MAGIC yield commensurate with their treasury contribution. All collections qualify strictly for the yield generated through the Treasury allocated by the Master Tacticians, and as part of Bridgeworld guild engagement.
 
