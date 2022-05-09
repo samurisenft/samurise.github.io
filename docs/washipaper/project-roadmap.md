@@ -11,11 +11,11 @@ This Roadmap reflects the current prioritization the team is pursuing in order t
 
 **This Roadmap is a living document and will change. Our higher commitment is to deliver features and functionality with each and every seasonal game loop.**
 
-## Prelude - phase 1
+## Prelude - phase 1 (DONE)
 
 Mint Lost SamuRise collection
 
-* **Mint**
+* **Mint** 
   * L1
   * 5,000 free
   * 5,000 paid
@@ -27,7 +27,7 @@ Mint Lost SamuRise collection
   During the staking period, staked tokens becomes non transferrable while remaining in their owner's wallet.
   In this paradigm, the owner of a token has zero exposure to the risk of a staking contract being compromised. It is truly non-custodial in nature.
 
-## Prelude - Phase 2
+## Prelude - Phase 2 (DONE)
 
 Claim Land, Sword, and other Role based NFTs
 
@@ -43,23 +43,19 @@ Claim Land, Sword, and other Role based NFTs
   
 ## Year 1 Season 1: Spring
 
-Introduce SamuRise worker Actions
+Introduce first of SamuRise worker Actions
 
+* Sanctuary Ritual to claim one Land for your Faction
+* Minting of SamuRise on L2 and staking to prepare for Actions interface
 * Introduce in-game medium of exchange $BUSHO (erc-20)
   * $Busho will accrue to staked SamuRise owners in a similar manner to $Magic and using boosted veSamuRise when available (only claimable via P2E actions in-game)
 * SamuRise can be set to work in one of 2 initial Action types
   * Farm for $GOHAN (erc-1155)
   * Train for $CHIKARA (erc-1155)
 * Planned Treasure Integration
-  * All SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
-* Land is now mintable for $Magic
-  * Land can be minted into a chosen faction towards a cap of 1111 per province and 3333 per Faction
+  * Some SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
 * Master Yield Pool Dashboard
   * Website dashboard will show your currently staked SamuRise and accrued $Magic
-* Implement worker tokens (erc-1155)
-  * Worker tokens are utility tokens and gamefi primitives, allowing abstraction of a “board game” type mechanic
-  * Worker tokens are only mintable by approved “partner collections” into erc-1155 tokens that are tradeable on the Treasure marketplace
-  * Worker tokens can replace a SamuRise with the Farm and Produce (later) actions at a 10 to 1 efficiency trade-off
 
 ## Year 1 Season 2: Summer
 
@@ -69,9 +65,15 @@ Introduce remaining SamuRise worker Actions
   * Produce for #Materials (erc-1155)
   * Quest for in-game items and NFTs
 * Planned Treasure Integration
-  * All additional SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
+  * Additional SamuRise actions can be paid for with a combinatin of $Busho and/or $Magic
+* Land is now mintable for $Magic
+  * Land can be minted into a chosen faction towards a cap of 1111 per province and 3333 per Faction
 * Master Yield Pool Dashboard
   * Claim $Magic function is available at this time
+* Implement worker tokens (erc-1155)
+  * Worker tokens are utility tokens and gamefi primitives, allowing abstraction of a “board game” type mechanic
+  * Worker tokens are only mintable by approved “partner collections” into erc-1155 tokens that are tradeable on the Treasure marketplace
+  * Worker tokens can replace a SamuRise with the Farm and Produce (later) actions at a 10 to 1 efficiency trade-off
 
 ## Year 1 Season 3: Fall
 
