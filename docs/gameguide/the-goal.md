@@ -56,7 +56,8 @@ LSR features 6 distinct asset class categories, and each plays a critical role i
 **Items**
 -   _Primary Issuance_: Earned via questing, Factional performance, crafting or community accomplishments
 -   _Utility_: Rare items increase value of Land (totems) and PFP (equippables), and consumables are used for temporary game buffs
-<TODO: add item utility and slots here>
+
+TODO: add item utility and slots here
 
 # Playing the Game
 The Lost SamuRise is played over a year in game time, and contains 3 identical seasonal loops (Spring, Summer, Fall), while the final Winter season allocates time for all the end of year revolt calculations and Emperor award actions. Within each non-Winter season there are 4 phases that factional teams and individuals will participate in.
@@ -90,7 +91,7 @@ Training your SamuRise yields the critical resource for increasing your Dojo's L
 ![#Chikara Production Probabilities](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/TrainTable.png)
 You are always guaranteed an outcome of 40 #Chikara, but the trade-off you are allowed to consider is to try your luck for more *Bushido Cards*. If you fail to get a Card however, your Chikara production rate will increase slightly. A full set of 8 *Bushido Cards* are necessary to attract a *Sensei* to your Dojo, allowing you to build your Dojo into the Black levels.
 
-<img style="border:5px groove gold;" src="https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/BushidoCards.png" width="75%" height="75%" alt="Bushido Cards" >
+<img style="border:5px groove gold;" src="https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/BushidoCards.png" width="75%" height="75%" alt="Bushido Cards" />
 
 Currently there are only two uses for #Chikara. The graphic below can be used as a reference for the *Kyu Test* and the *Build Dojo* quests
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/ChikaraSinks.png)
@@ -142,7 +143,7 @@ tbc
  4. **Questing**: support neighboring Province engaged in an Attack Order, or help defend
  5. **Tribute**: adjust Tribute levels for #Chikara, #Gohan and #materials
 
- (additional details to be revealed)
+(additional details to be revealed)
 ## Season - 🟦 Order Resolution
 Order Resolution occurs on the final hour of the Season, and all Faction orders are simultaneously and programmatically executed according to strictly implemented gaming logic.
 
