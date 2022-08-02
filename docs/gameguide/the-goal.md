@@ -91,7 +91,7 @@ Training your SamuRise yields the critical resource for increasing your Dojo's L
 ![#Chikara Production Probabilities](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/TrainTable.png)
 You are always guaranteed an outcome of 40 #Chikara, but the trade-off you are allowed to consider is to try your luck for more *Bushido Cards*. If you fail to get a Card however, your Chikara production rate will increase slightly. A full set of 8 *Bushido Cards* are necessary to attract a *Sensei* to your Dojo, allowing you to build your Dojo into the Black levels.
 
-<img style="border:5px groove gold;" src="https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/BushidoCards.png" width="75%" height="75%" alt="Bushido Cards" />
+<img style={{ border: '5px groove gold' }} src={'https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/BushidoCards.png'}  alt={"Bushido Cards"} />
 
 Currently there are only two uses for #Chikara. The graphic below can be used as a reference for the *Kyu Test* and the *Build Dojo* quests
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/ChikaraSinks.png)
