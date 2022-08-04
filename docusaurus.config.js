@@ -86,7 +86,7 @@ const config = {
               {
                 label: 'GameGuide',
                 to: '/docs/gameguide/game-guide'
-              }
+              },
             ],
           },
           {
