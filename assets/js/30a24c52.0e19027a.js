@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksamurise=self.webpackChunksamurise||[]).push([[430],{8605:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hello","name":"hello","count":2,"permalink":"/blog/tags/hello"}')}}]);
