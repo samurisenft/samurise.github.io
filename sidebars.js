@@ -36,6 +36,18 @@ const sidebars = {
     'washipaper/game-roles',
     'washipaper/project-roadmap'
   ],
+  gameguide: [
+    'gameguide/game-guide',
+    'gameguide/preparation',
+    'gameguide/asset-classes',
+    'gameguide/playing-the-game',
+    'gameguide/action-work',
+    'gameguide/council-vote',
+    'gameguide/faction-orders',
+    'gameguide/order-resolution',
+    'gameguide/resolve-revolts',
+    'gameguide/emperor-awards'
+  ],
 };
 
 module.exports = sidebars;

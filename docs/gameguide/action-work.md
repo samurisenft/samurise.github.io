@@ -14,8 +14,8 @@ All Actions are paid for in $Busho, but to increase the odds of a better outcome
  3. **Produce**: yields #materials (#Wood, #Iron, #Copper, #Silver, #Gold, Bridgeworld #treasures)
  4. **Questing**: yields #equippables, #totems, #consumables
 
-## Action: Worker Placement
-![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_train.png)
+## Action: Train
+
 Training your SamuRise yields the critical resource for increasing your Dojo's Level - #Chikara. An improved Dojo allows your SamuRise to level up, increasing rarity and contributes higher combat power to your Faction when fighting the enemy.
 
 |Cost| Time|Base Yield|Bonus Yield|Die Roll
@@ -62,7 +62,6 @@ Progressively burning #Bushido Cards into your DOJO increases the rate of #Chika
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/chikaraproduction.png)
 
 ## Action: Farm
-![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_farm.png)
 
 Farming the Land yields #Gohan. These rice stores can be bought and sold on the open marketplace, used to build up your Farm Level, or provided to your Faction to support the resource war raging across Tengoku. #Workers from Lifeboat collections can also participate in this action, allowing SamuRise to engage in more critical actions such as the Kyu Test.
 
@@ -73,13 +72,11 @@ Farming the Land yields #Gohan. These rice stores can be bought and sold on the 
 (additional details to be revealed)
 
 ## Action: Produce
-![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_produce.png)
 
 Producing on your Land yields resources that will be utilized by your Faction to construct the iconic monuments that will help to purify the Land. Each of the 3 monuments types, Theatre, Temple, and Castle, will have different build recipe requirements.
 
 (additional details to be revealed)
 
 ## Action: Quest
-![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_quest.png)
 
 (additional details to be revealed)
