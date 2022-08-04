@@ -83,6 +83,10 @@ const config = {
                 label: 'Washipaper',
                 to: '/docs/washipaper/prologue',
               },
+              {
+                label: 'GameGuide',
+                to: '/docs/gameguide/game-guide'
+              }
             ],
           },
           {
