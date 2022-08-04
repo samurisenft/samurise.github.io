@@ -43,7 +43,7 @@ The *Kyu Test* Quest is the primary method for increasing the level of your Samu
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/kyutest.png)
 
-Burning additional #Bushido Cards (up to 5) improves the probability of having an extremely good training outcome and levelling up twice. This also increases the probability that you will have some of the cards returned to you. Possession of the equipped item *Golden Fude* will provide a +1 to all Die Rolls.
+Burning additional #Bushido Cards (up to 5) improves the probability of having an extremely good training outcome and levelling up twice. This also increases the probability that you will have some of the cards returned to you. Possession of the equipped item *Golden Fude* will provide a -1 to all Die Rolls.
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/quest_builddojo.png)
 
