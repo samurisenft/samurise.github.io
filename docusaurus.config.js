@@ -65,6 +65,12 @@ const config = {
             position: 'left',
             label: 'Washipaper',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'gameguide',
+            position: 'left',
+            label: 'GameGuide',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/samurisenft/samurise.github.io',
