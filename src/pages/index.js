@@ -19,6 +19,11 @@ function HomepageHeader() {
             to="/docs/washipaper/prologue">
             Washipaper
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/gameguide/game-guide">
+            GameGuide
+          </Link>
         </div>
       </div>
     </header>
