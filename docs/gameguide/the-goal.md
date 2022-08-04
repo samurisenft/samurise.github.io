@@ -22,6 +22,7 @@ The land of Tengoku is far more extensive than the rice paper sketch scribes hav
 
 **Land Logic**
 Each Province is in turn divided by Land assets, up to a maximum of 1111, or 3333 per Faction. Only 1 Land can be productive per Ethereum wallet address, as long as they successfully completed the "Sanctuary Quest", which permanently assigns that Land parcel to a Faction. This Land becomes your Homeland ('*Zaisan*').
+
 **Provincial Borders**
 The borders between provinces will play a more important role during the Faction phase of the game. Direct military conflict in the form of an 'Attack' Order can only be executed across a border between warring Factions. The map above is organized for balanced gameplay and each Faction has an equal number of connections to enemy Factions.
 
@@ -61,15 +62,19 @@ TODO: add item utility and slots here
 
 # Playing the Game
 The Lost SamuRise is played over a year in game time, and contains 3 identical seasonal loops (Spring, Summer, Fall), while the final Winter season allocates time for all the end of year revolt calculations and Emperor award actions. Within each non-Winter season there are 4 phases that factional teams and individuals will participate in.
+
 **Spring, Summer, Fall**
-	🟥 Worker Placement Actions
-	🟨 Council Vote
-	🟩 Faction Orders
-	🟦 Order Resolution
+🟥 Worker Placement Actions
+🟨 Council Vote
+🟩 Faction Orders
+🟦 Order Resolution
+
 **Winter is coming**	
-	🔷 Resolve Revolts
-	🔶 Emperor Awards
+🔷 Resolve Revolts
+🔶 Emperor Awards
+
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/game-loop-year.png)
+
 ## Season - 🟥 Worker Placement Actions
 SamuRise Worker Placement Actions are the core of the game. Resources required to purify Tengoku can only be gathered by putting your SamuRise to work on the Land. There are 4 categories of resources that can be accumulated through various actions. 
 
@@ -88,17 +93,24 @@ Training your SamuRise yields the critical resource for increasing your Dojo's L
 |Cost| Time|Base Yield|Bonus Yield|Die Roll
 |--|--|--|--|--
 | 40 $Busho|4 days|10 #Chikara|0-3 Bushido Cards|2d6
+
 ![#Chikara Production Probabilities](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/TrainTable.png)
+
 You are always guaranteed an outcome of 40 #Chikara, but the trade-off you are allowed to consider is to try your luck for more *Bushido Cards*. If you fail to get a Card however, your Chikara production rate will increase slightly. A full set of 8 *Bushido Cards* are necessary to attract a *Sensei* to your Dojo, allowing you to build your Dojo into the Black levels.
 
 <img style={{ border: '5px groove gold' }} src={'https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/BushidoCards.png'}  alt={"Bushido Cards"} />
 
 Currently there are only two uses for #Chikara. The graphic below can be used as a reference for the *Kyu Test* and the *Build Dojo* quests
+
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/ChikaraSinks.png)
+
+
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/quest_kyutest.png)
-|Quest|Cost| ime|Reward|Bonus Reward|Die Roll
+
+|Quest|Cost|Time|Reward|Bonus Reward|Die Roll
 |--|--|--|--|--|--
 |Kyu Test|100 $Chikara|4 days|Level SR|Level SR >1|1d6
+
 The *Kyu Test* Quest is the primary method for increasing the level of your SamuRise. You have the option to *Burn* #Bushido cards to improve the probability of succeeding, and possibly gaining 2 levels.
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/kyutest.png)
@@ -106,26 +118,33 @@ The *Kyu Test* Quest is the primary method for increasing the level of your Samu
 Burning additional #Bushido Cards (up to 5) improves the probability of having an extremely good training outcome and levelling up twice. This also increases the probability that you will have some of the cards returned to you. Possession of the equipped item *Golden Fude* will provide a +1 to all Die Rolls.
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/quest_builddojo.png)
+
 |Quest|Cost|Time|Reward
 |--|--|--|--
 |Build DOJO|100+ $Chikara|4 days|Level DOJO
+
 Building your DOJO is a required upgrade for your SamuRise to increase in level, because they cannot exceed your current DOJO color. The base cost for most upgrades is 100 #Chikara, with exceptions for your first Black DOJO, and the final Shogun Level (Black-10).
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/builddojo.png)
+
 Your first Black DOJO level will require that a *Sensei* is available on your Land. Burning a full set of 8x #Bushido Cards will attract a *Sensei* to your Land. Each successive Black level  requires an additional #treasure to be staked. The final 'Shogun' DOJO will necessitate 2900 #Chikara, a *Sensei* (8x #Bushido Cards), and 10 #treasures from Bridgeworld.
 
 Progressively burning #Bushido Cards into your DOJO increases the rate of #Chikara production according to the following schedule.
+
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/chikaraproduction.png)
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_farm.png)
+
 Farming the Land yields #Gohan. These rice stores can be bought and sold on the open marketplace, used to build up your Farm Level, or provided to your Faction to support the resource war raging across Tengoku. #Workers from Lifeboat collections can also participate in this action, allowing SamuRise to engage in more critical actions such as the Kyu Test.
 
-|Cost| Time|Base Yield|Worker Yield|Die Roll
+|Cost|Time|Base Yield|Worker Yield|Die Roll
 |--|--|--|--|--
 | 40 $Busho|4 days|10 #Gohan|1 #Gohan|2d6
+
 (additional details to be revealed)
 
 ![enter image description here](https://raw.githubusercontent.com/samurisenft/samurise.github.io/master/static/assets/images/action_produce.png)
+
 Producing on your Land yields resources that will be utilized by your Faction to construct the iconic monuments that will help to purify the Land. Each of the 3 monuments types, Theatre, Temple, and Castle, will have different build recipe requirements.
 
 (additional details to be revealed)
