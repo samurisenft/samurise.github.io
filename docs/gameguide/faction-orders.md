@@ -13,12 +13,12 @@ The ruling council for each Faction has up to the end of the Season to enter the
 
 (additional details to be revealed)
 
-## Oder: Attack
+## Order: Attack
 
-## Oder: Sabotage
+## Order: Sabotage
 
-## Oder: Build
+## Order: Build
 
-## Oder: Support
+## Order: Support
 
-## Oder: Tribute
+## Order: Tribute
